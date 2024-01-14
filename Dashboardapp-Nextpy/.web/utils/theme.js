@@ -1,0 +1,1 @@
+export default {"styles": {"global": {"body": {"_dark": {"bg": "#1f2128"}, "_light": {"bg": "#312e2a"}, "fontFamily": "Gill Sans"}}}}
